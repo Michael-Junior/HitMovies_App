@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052173812089",
+    "project_id": "hitmovies-68ef3",
+    "storage_bucket": "hitmovies-68ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052173812089:android:195d64c7a4358e44e22fa8",
+        "android_client_info": {
+          "package_name": "com.example.hitmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052173812089-79sqtcismu0tntk41qfpj1dq9hnh841p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hitmovies",
+            "certificate_hash": "2f1e7af8d9d808bbddd0e827881696d76f7315bf"
+          }
+        },
+        {
+          "client_id": "1052173812089-2adlerkhohemj0jlpu3ni6dah4fa30eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghMCYaXVwf-F4Aaf_eEPqZ-tWNFM0B9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052173812089-2adlerkhohemj0jlpu3ni6dah4fa30eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
