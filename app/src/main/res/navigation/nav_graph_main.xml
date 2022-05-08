@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_main"
+    app:startDestination="@id/menu_home">
+
+    <fragment
+        android:id="@+id/menu_home"
+        android:name="com.example.hitmovies.fragment.StartFragment"
+        android:label="fragment_start"
+        tools:layout="@layout/fragment_start" />
+    <fragment
+        android:id="@+id/menu_search"
+        android:name="com.example.hitmovies.fragment.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/menu_add"
+        android:name="com.example.hitmovies.fragment.AddFragment"
+        android:label="fragment_add"
+        tools:layout="@layout/fragment_add" />
+    <fragment
+        android:id="@+id/menu_soon"
+        android:name="com.example.hitmovies.fragment.SoonFragment"
+        android:label="fragment_soon"
+        tools:layout="@layout/fragment_soon" />
+    <fragment
+        android:id="@+id/menu_download"
+        android:name="com.example.hitmovies.fragment.DownloadFragment"
+        android:label="fragment_download"
+        tools:layout="@layout/fragment_download" />
+</navigation>

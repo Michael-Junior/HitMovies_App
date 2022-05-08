@@ -8,4 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cor_bg_app">#FFFFFFFF</color>
+    <color name="ford_dark_titanium">#68686B</color>
+    <color name="colorPrimary">#E00915</color>
+    <color name="color_bg_app">@android:color/black</color>
+    <color name="color_backbroung_top">#B69517</color>
+    <color name="colorIconeOffBnv">#626262</color>
+    <color name="colorIconeOnBnv">#FFFFFF</color>
 </resources>
