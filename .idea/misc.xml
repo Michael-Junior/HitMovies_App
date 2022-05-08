@@ -3,8 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/ic_add_red.xml" value="0.228" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/ic_breve.xml" value="0.159" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/ic_busca.xml" value="0.159" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/ic_download.xml" value="0.159" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/ic_inicio.xml" value="0.159" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.168" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable-v24/item_selected.xml" value="0.206" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
         <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/activity_splash.xml" value="0.35597826086956524" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/fragment_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/fragment_download.xml" value="0.18125" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/fragment_soon.xml" value="0.20416666666666666" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/layout/fragment_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Meus Desenvolvimentos/Aplicativos/app/src/main/res/menu/menu_main.xml" value="0.25" />
       </map>
     </option>
   </component>
